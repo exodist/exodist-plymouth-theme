@@ -1,0 +1,11 @@
+[Plymouth Theme]
+Name=Stargate
+Description=Stargate 1080p
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/stargate
+Transition=none
+TransitionDuration=0.0
+BackgroundStartColor=0x000000
+BackgroundEndColor=0x000000
